@@ -84,4 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  remote_theme: chrisrhymes/bulma-clean-theme
+
+remote_theme: chrisrhymes/bulma-clean-theme

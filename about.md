@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 假装是个文艺青年
 permalink: /about/
 ---
 
